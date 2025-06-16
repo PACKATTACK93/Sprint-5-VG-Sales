@@ -7,8 +7,8 @@ The important thing is to get experience working with data. It doesn't really ma
 
 The dataset contains the abbreviation ESRB. The Entertainment Software Rating Board evaluates a game's content and assigns an age rating such as Teen or Mature.
 
-## Instructions for completing the project
-
+ Instructions for completing the project
+ 
 ## Step 1. Open the data file and study the general information
 File path:
 /datasets/games.csv . Download dataset
