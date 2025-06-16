@@ -11,7 +11,7 @@ The dataset contains the abbreviation ESRB. The Entertainment Software Rating Bo
 
 ## Step 1. Open the data file and study the general information
 File path:/datasets/games.csv 
-Download csv file dataset. https://practicum-content.s3.us-west-1.amazonaws.com/datasets/games.csv
+Dataset file: https://practicum-content.s3.us-west-1.amazonaws.com/datasets/games.csv
 
 ## Step 2. Prepare the data
 
